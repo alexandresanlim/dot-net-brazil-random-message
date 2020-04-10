@@ -50,4 +50,5 @@ Remover mensagens de domingo:
 DotNet.BrazilRandomMessage.Messages.NotIncludeSunday();
 ````
 
-
+## Mais
+- Contribuições são bem vindas ;)
