@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet.BrazilRandomMessage", "DotNet.BrazilRandomMessage\DotNet.BrazilRandomMessage.csproj", "{6837D012-D21D-4877-966E-DEFDDDC473C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet.BrazilRandomMessage.Test", "DotNet.BrazilRandomMessage.Test\DotNet.BrazilRandomMessage.Test.csproj", "{FE56761D-DFAD-4710-B4A3-219DA669E266}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6837D012-D21D-4877-966E-DEFDDDC473C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6837D012-D21D-4877-966E-DEFDDDC473C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6837D012-D21D-4877-966E-DEFDDDC473C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6837D012-D21D-4877-966E-DEFDDDC473C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE56761D-DFAD-4710-B4A3-219DA669E266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE56761D-DFAD-4710-B4A3-219DA669E266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE56761D-DFAD-4710-B4A3-219DA669E266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE56761D-DFAD-4710-B4A3-219DA669E266}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4C04200-9DF5-4F67-A8E2-7F5B80FE28D1}
+	EndGlobalSection
+EndGlobal
