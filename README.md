@@ -4,15 +4,16 @@ Impressione os usuários da sua aplicação, retornando de maneira muito facil u
 
 É de muita importância quando a sua aplicação "conversa" com o usuário, de forma que faça-o ficar impressionado e sentir-se exclusivo.
 
-Com esse projeto essa missão será extremamente facil, basta que:
+Com esse projeto essa missão será extremamente facil.
 
+## Como usar
+ - Instale [este pacote](https://www.nuget.org/packages/BrazilRandomMessage/1.0.0) via nuget ou linha de comando:<br/>
+`Install-Package BrazilRandomMessage`
+
+- Pegar uma mensagem randômica
 `var randomMessage = DotNet.BrazilRandomMessage.Messages.GetOne()`
 
 A mensagem retornada você pode colocar por exemplo no topo da sua aplicação ou na página de configurações do usuário.
-
-## Adicionar no seu projeto
-Instale [este pacote](https://www.nuget.org/packages/BrazilRandomMessage/1.0.0) via nuget ou linha de comando:<br/>
-`Install-Package BrazilRandomMessage`
 
 ## O que pode retornar?
 
