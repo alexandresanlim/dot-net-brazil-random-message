@@ -1,2 +1,3 @@
 # DotNet.BrazilRandomMessage
-Mensagens randômicas do Brasil.
+
+Atraia muito seus clientes e faça se sentirem esclusivos com esse pacote.
