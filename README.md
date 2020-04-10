@@ -1,3 +1,3 @@
 # DotNet.BrazilRandomMessage
 
-Atraia muito seus clientes e faça se sentirem esclusivos com esse pacote.
+Impressione os usuários da sua aplicação, retornando de maneira muito facil uma mensagem aleatória para brasileiros, usando como parâmetro o dia atual.
