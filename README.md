@@ -6,9 +6,13 @@ Impressione os usuários da sua aplicação, retornando de maneira muito facil u
 
 Com esse projeto essa missão será extremamente facil, basta que:
 
-`var a = Messages.GetOne()`
+`var randomMessage = DotNet.BrazilRandomMessage.Messages.GetOne()`
 
 A mensagem retornada você pode colocar por exemplo no topo da sua aplicação ou na página de configurações do usuário.
+
+## Adicionar no seu projeto
+Instale [este pacote](https://www.nuget.org/packages/BrazilRandomMessage/1.0.0) via nuget ou linha de comando:<br/>
+`Install-Package BrazilRandomMessage`
 
 ## O que pode retornar?
 
