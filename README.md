@@ -10,7 +10,7 @@ Com esse projeto essa missão será extremamente facil.
  - Instale [este pacote](https://www.nuget.org/packages/BrazilRandomMessage/1.0.0) via nuget ou linha de comando:<br/>
 `Install-Package BrazilRandomMessage`
 
-- Pegar uma mensagem randômica
+- Pegar uma mensagem randômica <br/>
 `var randomMessage = DotNet.BrazilRandomMessage.Messages.GetOne()`
 
 A mensagem retornada você pode colocar por exemplo no topo da sua aplicação ou na página de configurações do usuário.
