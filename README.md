@@ -1,5 +1,8 @@
 # DotNet.BrazilRandomMessage
 
+[![Nuget](https://img.shields.io/nuget/dt/Slack.Exception.Send)](https://www.nuget.org/packages/BrazilRandomMessage)
+[![Nuget](https://img.shields.io/nuget/v/Slack.Exception.Send)](https://www.nuget.org/packages/BrazilRandomMessage)
+
 Impressione os usuários da sua aplicação, retornando de maneira muito facil uma mensagem aleatória para brasileiros, usando como parâmetro a data atual.
 
 É de muita importância quando a sua aplicação "conversa" com o usuário, de forma que faça-o ficar impressionado e sentir-se exclusivo.
