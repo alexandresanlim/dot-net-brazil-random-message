@@ -19,7 +19,7 @@ A mensagem retornada você pode colocar por exemplo no topo da sua aplicação o
 
 ## O que pode retornar?
 
-A mensagem retornada usa como parâmetro a data atual
+A mensagem retornada usa como parâmetro a data atual, veja as possibilidades:
 
 | Tipo  |  Mensagens  |
 | ------------------- | ------------------- |
