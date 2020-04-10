@@ -45,7 +45,7 @@ Remover mensagens de final de semana:
 ```csharp
 DotNet.BrazilRandomMessage.Messages.NotIncludeWeekend();
 ````
-Remover mensagens de final de domingo:
+Remover mensagens de domingo:
 ```csharp
 DotNet.BrazilRandomMessage.Messages.NotIncludeSunday();
 ````
