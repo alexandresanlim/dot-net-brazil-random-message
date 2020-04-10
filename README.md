@@ -19,6 +19,8 @@ A mensagem retornada você pode colocar por exemplo no topo da sua aplicação o
 
 ## O que pode retornar?
 
+A mensagem retornada usa como parâmetro a data atual
+
 | Tipo  |  Mensagens  |
 | ------------------- | ------------------- |
 |  **Boas vindas** |  "Seja muito bem vindo."<br/> "É muito bom te ver novamente."<br/> "O que está procurando hoje?"<br/> "Como vão as coisas?"<br/> "Como vai você?" |
