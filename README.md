@@ -4,7 +4,7 @@ Impressione os usuários da sua aplicação, retornando de maneira muito facil u
 
 É de muita importância quando a sua aplicação "conversa" com o usuário, de forma que faça-o ficar impressionado e sentir-se exclusivo.
 
-Com esse projeto essa missão será extremamente facil.
+Com esse projeto esta missão será extremamente facil.
 
 ## Como usar
  - Instale [este pacote](https://www.nuget.org/packages/BrazilRandomMessage/1.0.0) via nuget ou linha de comando:<br/>
