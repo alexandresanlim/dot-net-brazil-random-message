@@ -11,7 +11,9 @@ Com esse projeto essa missão será extremamente facil.
 `Install-Package BrazilRandomMessage`
 
 - Pegar uma mensagem randômica <br/>
-`var randomMessage = DotNet.BrazilRandomMessage.Messages.GetOne()`
+```csharp
+var randomMessage = DotNet.BrazilRandomMessage.Messages.GetOne()
+```
 
 A mensagem retornada você pode colocar por exemplo no topo da sua aplicação ou na página de configurações do usuário.
 
