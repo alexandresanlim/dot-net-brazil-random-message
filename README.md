@@ -18,7 +18,7 @@ Com esse projeto esta missão será extremamente facil.
 var randomMessage = DotNet.BrazilRandomMessage.Messages.GetOne()
 ```
 
-A mensagem retornada você pode colocar por exemplo no topo da sua aplicação ou na página de configurações do usuário.
+Coma a mensagem retornada você pode colocar por exemplo no topo da sua aplicação ou na página de configurações do usuário.
 
 ## O que pode retornar?
 
