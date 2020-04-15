@@ -39,7 +39,7 @@ namespace DotNet.BrazilRandomMessage.Message
     }
 
     public class Sunday : IMessageBase
-    { 
+    {
         public IEnumerable<string> Messages
         {
             get
@@ -50,7 +50,7 @@ namespace DotNet.BrazilRandomMessage.Message
                     "Hoje é domingo, dia de parque?"
                 };
 
-                listReturn.AddRange(new Weekend().Messages);
+                listReturn.AddRange(new Welcome().Messages);
 
                 return listReturn;
             }
@@ -59,10 +59,20 @@ namespace DotNet.BrazilRandomMessage.Message
 
     public class Monday : IMessageBase
     {
-        public IEnumerable<string> Messages => new List<string>
+        public IEnumerable<string> Messages
         {
-            "Ótimo começo de semana!",
-            "Ótima segunda-feira!"
-        };
+            get
+            {
+                var listReturn = new List<string>
+                {
+                    "Ótimo começo de semana!",
+                    "Ótima segunda-feira!"
+                };
+
+                listReturn.AddRange(new Welcome().Messages);
+
+                return listReturn;
+            }
+        }
     }
 }

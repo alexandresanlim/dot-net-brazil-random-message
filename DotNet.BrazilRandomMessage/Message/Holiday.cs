@@ -75,7 +75,7 @@ namespace DotNet.BrazilRandomMessage.Message
                     case HolidayIdentity.Finados:
                         msgs.AddRange(new List<string>
                         {
-                            "Dia dos finados, que esteja em paz aqueles que se foram 🙏"
+                            "Dia de finados, que esteja em paz aqueles que se foram 🙏"
                         });
                         return msgs;
 
@@ -118,10 +118,10 @@ namespace DotNet.BrazilRandomMessage.Message
                         });
                         return msgs;
 
-                    case HolidayIdentity.CorpusChisti:
+                    case HolidayIdentity.CorpusChristi:
                         msgs.AddRange(new List<string>
                         {
-                            "Tomai e comei. isto é o meu corpo. Mateus 26:26"
+                            "Tomai e comei, isto é o meu corpo. Mateus 26:26"
                         });
                         return msgs;
 
@@ -244,6 +244,6 @@ namespace DotNet.BrazilRandomMessage.Message
         Pascoa,
         SextaSanta,
         Carnaval,
-        CorpusChisti
+        CorpusChristi
     }
 }

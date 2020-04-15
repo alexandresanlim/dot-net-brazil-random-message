@@ -15,6 +15,9 @@ namespace DotNet.BrazilRandomMessage.Test
         public void RemoveHoliday()
         {
             Messages.NotIncludeHoliday();
+            Messages.NotIncludeFriday();
+            Messages.NotIncludeWeekend();
+            Messages.NotIncludeSunday();
             var a = Messages.GetOne();
         }
 

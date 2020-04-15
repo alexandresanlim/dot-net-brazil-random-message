@@ -1,7 +1,12 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetFrameworks>net45;netstandard1.6;netstandard2.0</TargetFrameworks>
+    <Authors>Alexandre Sanlim</Authors>
+    <PackageProjectUrl>https://github.com/alexandresanlim/DotNet.BrazilRandomMessage</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/alexandresanlim/DotNet.BrazilRandomMessage</RepositoryUrl>
+    <Description>Impressione os usuários da sua aplicação, retornando de maneira muito facil uma mensagem aleatória para brasileiros, usando como parâmetro o dia atual.</Description>
+    <PackageId>BrazilRandomMessage</PackageId>
   </PropertyGroup>
 
 </Project>
