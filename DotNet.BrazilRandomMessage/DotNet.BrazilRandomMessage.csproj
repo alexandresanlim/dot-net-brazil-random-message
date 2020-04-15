@@ -7,12 +7,12 @@
     <RepositoryUrl>https://github.com/alexandresanlim/DotNet.BrazilRandomMessage</RepositoryUrl>
     <Description>Impressione os usuários da sua aplicação, retornando de maneira muito facil uma mensagem aleatória para brasileiros, usando como parâmetro o dia atual.</Description>
     <PackageId>BrazilRandomMessage</PackageId>
-    <PackageIcon>logo.png</PackageIcon>
-    <Version>1.0.1</Version>
+    <PackageIcon>logo2.png</PackageIcon>
+    <Version>1.0.2</Version>
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="Src\logo.png">
+    <None Include="Src\logo2.png">
       <Pack>True</Pack>
       <PackagePath></PackagePath>
     </None>
