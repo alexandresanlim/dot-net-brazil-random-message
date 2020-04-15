@@ -1,4 +1,5 @@
 # DotNet.BrazilRandomMessage
+<img src="https://github.com/alexandresanlim/DotNet.BrazilRandomMessage/blob/master/logo_brrandom.png?raw=true" width="183" />
 
 [![Nuget](https://img.shields.io/nuget/dt/BrazilRandomMessage)](https://www.nuget.org/packages/BrazilRandomMessage)
 [![Nuget](https://img.shields.io/nuget/v/BrazilRandomMessage)](https://www.nuget.org/packages/BrazilRandomMessage)
