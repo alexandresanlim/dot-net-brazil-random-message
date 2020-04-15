@@ -1,5 +1,5 @@
 # DotNet.BrazilRandomMessage
-<img src="https://github.com/alexandresanlim/DotNet.BrazilRandomMessage/blob/master/logo_brrandom.png?raw=true" width="183" />
+<img src="https://github.com/alexandresanlim/DotNet.BrazilRandomMessage/blob/master/DotNet.BrazilRandomMessage/Src/logo.png?raw=true" width="183" />
 
 [![Nuget](https://img.shields.io/nuget/dt/BrazilRandomMessage)](https://www.nuget.org/packages/BrazilRandomMessage)
 [![Nuget](https://img.shields.io/nuget/v/BrazilRandomMessage)](https://www.nuget.org/packages/BrazilRandomMessage)
@@ -35,7 +35,7 @@ A mensagem retornada usa como parâmetro a data atual, veja as possibilidades:
 |  Feriados | Em **Boas vindas** ou conforme um feriado: <br/> **Ano Novo** <br/> "Feliz ano novo! 🎉"<br/> "Que esse ano seja repleto de felicidade para você!" <br/> "Que esse ano seus sonhos se relizem! ;)" <br/> "Que esse ano seja repleto de luz e paz para você!" <br/> **Tiradentes** <br/>  "Hj é dia de Tiradentes um grande lider da Inconfidência Mineira" <br/> **Dia do trabalho** <br/> "Hj é dia do trabalho, parabéns a tds trabalhadores! 👷‍" <br/> **Indepêndencia** <br/> "7 de setembro, Indepência ou morte! ⚔" <br/> "Hj é um marco na nossa história, Indepêndencia do Brasil!" <br/> **NS Aparecida** <br/> "Hj é dia de Nossa Senhora Aparecida 🙏" <br/> "12 de outubro ao 12:00 hrs foi encontrado a nossa padroeira 🙏" <br/> "Feliz dia das crianças. " <br/> **Finados** <br/> "Dia de finados, que esteja em paz aqueles que se foram 🙏" <br/> **Proclamação da República** <br/> "Hoje é dia da Proclamação da República" <br/> **Natal** <br/> "É pavê ou pa comê? 🤦‍♂️" <br/> "Ho ho ho Feliz natal! 🎄" <br/> "Comemoremos o aniversário de cristo 🙏" <br/> **Pascoa** <br/> "Hj é o dia da ressureição de Jesus Cristo" <br/> "Feliz Páscoa! 🐰" <br/> **Sexta-feira santa** <br/> "Hj é o dia da Paixão de Cristo 🙏" <br/> **Carnaval** <br/> "Feliz carnaval!" <br/> "Feliz carnaval, comemore com moderação :)" <br/> **Corpus Christ** <br/> "Tomai e comei, isto é o meu corpo. Mateus 26:26" |
 
 ## Customizações:
-- Você pode querer remover algum tipo de mensagem, para isso basta que:
+- Você pode querer remover algum tipo de mensagem, para isso basta que na inicialização da sua aplicação:
 
 Remover mensagens de feriados:
 ```csharp
