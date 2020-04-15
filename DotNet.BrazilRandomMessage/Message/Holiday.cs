@@ -224,7 +224,7 @@ namespace DotNet.BrazilRandomMessage.Message
                 holidayList.Add(new Holiday { Date = pascoa, HolidayIdentity = HolidayIdentity.Pascoa });
                 holidayList.Add(new Holiday { Date = sextaSanta, HolidayIdentity = HolidayIdentity.SextaSanta });
                 holidayList.Add(new Holiday { Date = carnaval, HolidayIdentity = HolidayIdentity.Carnaval });
-                holidayList.Add(new Holiday { Date = corpusChristi, HolidayIdentity = HolidayIdentity.CorpusChisti });
+                holidayList.Add(new Holiday { Date = corpusChristi, HolidayIdentity = HolidayIdentity.CorpusChristi });
 
                 return holidayList;
             }
